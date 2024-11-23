@@ -60,7 +60,7 @@
               ><i class="fab fa-linkedin-in"></i
             ></a>
           </div>
-          <p>or use your account</p>
+          <p>Pakai Account Anda</p>
           <input type="email" name="email" placeholder="Email" required />
           <input
             type="password"
